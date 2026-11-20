@@ -1,0 +1,28 @@
+Project Overview
+
+Develop a responsive web application for tracking workouts and managing personal fitness progress.
+
+The application will allow users to manage exercises, record sets and repetitions, track completed workouts, and monitor their training activity.
+
+Main Features :
+
+- Add, edit, and delete exercises.
+- Track sets, repetitions, and workout duration.
+- Create and manage workout sessions.
+- Save workout data using LocalStorage.
+- Display basic workout statistics and progress.
+- Responsive interface for desktop and mobile devices.
+
+Technologies :
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- LocalStorage
+
+Project Goals :
+
+Build a functional and user-friendly fitness application while improving frontend development skills, JavaScript fundamentals, DOM manipulation, and responsive web design.
+
+Status :
+Planned
